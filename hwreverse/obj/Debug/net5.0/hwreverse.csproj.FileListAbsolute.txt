@@ -1,0 +1,15 @@
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\obj\Debug\net5.0\hwreverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\obj\Debug\net5.0\hwreverse.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\obj\Debug\net5.0\hwreverse.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\obj\Debug\net5.0\hwreverse.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\bin\Debug\net5.0\hwreverse.exe
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\bin\Debug\net5.0\hwreverse.deps.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\bin\Debug\net5.0\hwreverse.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\bin\Debug\net5.0\hwreverse.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\bin\Debug\net5.0\hwreverse.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\bin\Debug\net5.0\ref\hwreverse.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\bin\Debug\net5.0\hwreverse.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\obj\Debug\net5.0\hwreverse.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\obj\Debug\net5.0\ref\hwreverse.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\obj\Debug\net5.0\hwreverse.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\hwreverse\obj\Debug\net5.0\hwreverse.genruntimeconfig.cache

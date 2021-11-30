@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\bin\Debug\net5.0\FirstorLast.exe
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\bin\Debug\net5.0\FirstorLast.deps.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\bin\Debug\net5.0\FirstorLast.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\bin\Debug\net5.0\FirstorLast.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\bin\Debug\net5.0\FirstorLast.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\bin\Debug\net5.0\ref\FirstorLast.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\bin\Debug\net5.0\FirstorLast.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\obj\Debug\net5.0\FirstorLast.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\obj\Debug\net5.0\FirstorLast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\obj\Debug\net5.0\FirstorLast.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\obj\Debug\net5.0\FirstorLast.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\obj\Debug\net5.0\FirstorLast.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\obj\Debug\net5.0\FirstorLast.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\obj\Debug\net5.0\ref\FirstorLast.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\obj\Debug\net5.0\FirstorLast.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FirstorLast\obj\Debug\net5.0\FirstorLast.genruntimeconfig.cache

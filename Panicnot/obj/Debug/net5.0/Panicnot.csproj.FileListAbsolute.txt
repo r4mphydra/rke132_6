@@ -1,0 +1,15 @@
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\bin\Debug\net5.0\Panicnot.exe
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\bin\Debug\net5.0\Panicnot.deps.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\bin\Debug\net5.0\Panicnot.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\bin\Debug\net5.0\Panicnot.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\bin\Debug\net5.0\Panicnot.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\bin\Debug\net5.0\ref\Panicnot.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\bin\Debug\net5.0\Panicnot.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\obj\Debug\net5.0\Panicnot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\obj\Debug\net5.0\Panicnot.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\obj\Debug\net5.0\Panicnot.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\obj\Debug\net5.0\Panicnot.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\obj\Debug\net5.0\Panicnot.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\obj\Debug\net5.0\ref\Panicnot.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\obj\Debug\net5.0\Panicnot.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\Panicnot\obj\Debug\net5.0\Panicnot.genruntimeconfig.cache

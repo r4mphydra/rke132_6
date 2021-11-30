@@ -1,0 +1,15 @@
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\bin\Debug\net5.0\predictions.exe
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\bin\Debug\net5.0\predictions.deps.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\bin\Debug\net5.0\predictions.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\bin\Debug\net5.0\predictions.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\bin\Debug\net5.0\predictions.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\bin\Debug\net5.0\ref\predictions.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\bin\Debug\net5.0\predictions.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\obj\Debug\net5.0\predictions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\obj\Debug\net5.0\predictions.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\obj\Debug\net5.0\predictions.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\obj\Debug\net5.0\predictions.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\obj\Debug\net5.0\predictions.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\obj\Debug\net5.0\ref\predictions.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\obj\Debug\net5.0\predictions.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\predictions\obj\Debug\net5.0\predictions.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\bin\Debug\net5.0\SonedjaMassiviid.exe
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\bin\Debug\net5.0\SonedjaMassiviid.deps.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\bin\Debug\net5.0\SonedjaMassiviid.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\bin\Debug\net5.0\SonedjaMassiviid.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\bin\Debug\net5.0\SonedjaMassiviid.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\bin\Debug\net5.0\ref\SonedjaMassiviid.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\bin\Debug\net5.0\SonedjaMassiviid.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\obj\Debug\net5.0\SonedjaMassiviid.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\obj\Debug\net5.0\SonedjaMassiviid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\obj\Debug\net5.0\SonedjaMassiviid.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\obj\Debug\net5.0\SonedjaMassiviid.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\obj\Debug\net5.0\SonedjaMassiviid.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\obj\Debug\net5.0\SonedjaMassiviid.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\obj\Debug\net5.0\ref\SonedjaMassiviid.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\obj\Debug\net5.0\SonedjaMassiviid.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\SonedjaMassiviid\obj\Debug\net5.0\SonedjaMassiviid.genruntimeconfig.cache

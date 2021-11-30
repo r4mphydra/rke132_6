@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\bin\Debug\net5.0\replace.exe
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\bin\Debug\net5.0\replace.deps.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\bin\Debug\net5.0\replace.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\bin\Debug\net5.0\replace.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\bin\Debug\net5.0\replace.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\bin\Debug\net5.0\ref\replace.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\bin\Debug\net5.0\replace.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\obj\Debug\net5.0\replace.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\obj\Debug\net5.0\replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\obj\Debug\net5.0\replace.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\obj\Debug\net5.0\replace.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\obj\Debug\net5.0\replace.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\obj\Debug\net5.0\replace.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\obj\Debug\net5.0\ref\replace.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\obj\Debug\net5.0\replace.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\replace\obj\Debug\net5.0\replace.genruntimeconfig.cache

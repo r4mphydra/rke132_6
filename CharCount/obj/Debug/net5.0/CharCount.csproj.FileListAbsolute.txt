@@ -1,0 +1,16 @@
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\bin\Debug\net5.0\CharCount.exe
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\bin\Debug\net5.0\CharCount.deps.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\bin\Debug\net5.0\CharCount.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\bin\Debug\net5.0\CharCount.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\bin\Debug\net5.0\CharCount.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\bin\Debug\net5.0\ref\CharCount.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\bin\Debug\net5.0\CharCount.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\obj\Debug\net5.0\CharCount.csproj.AssemblyReference.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\obj\Debug\net5.0\CharCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\obj\Debug\net5.0\CharCount.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\obj\Debug\net5.0\CharCount.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\obj\Debug\net5.0\CharCount.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\obj\Debug\net5.0\CharCount.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\obj\Debug\net5.0\ref\CharCount.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\obj\Debug\net5.0\CharCount.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\CharCount\obj\Debug\net5.0\CharCount.genruntimeconfig.cache

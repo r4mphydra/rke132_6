@@ -1,0 +1,15 @@
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\obj\Debug\net5.0\FruitArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\obj\Debug\net5.0\FruitArray.AssemblyInfoInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\obj\Debug\net5.0\FruitArray.AssemblyInfo.cs
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\obj\Debug\net5.0\FruitArray.csproj.CoreCompileInputs.cache
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\bin\Debug\net5.0\FruitArray.exe
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\bin\Debug\net5.0\FruitArray.deps.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\bin\Debug\net5.0\FruitArray.runtimeconfig.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\bin\Debug\net5.0\FruitArray.runtimeconfig.dev.json
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\bin\Debug\net5.0\FruitArray.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\bin\Debug\net5.0\ref\FruitArray.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\bin\Debug\net5.0\FruitArray.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\obj\Debug\net5.0\FruitArray.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\obj\Debug\net5.0\ref\FruitArray.dll
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\obj\Debug\net5.0\FruitArray.pdb
+C:\Users\Artjom\Documents\RKE132\SonedjaMassiviid\FruitArray\obj\Debug\net5.0\FruitArray.genruntimeconfig.cache
